@@ -30,6 +30,7 @@ function OffcanvasExample() {
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/Route1">Route1</Nav.Link>
                 <Nav.Link href="/Route2">Route2</Nav.Link>
+                <Nav.Link href= "/Route3">Route3</Nav.Link>
               </Nav>
 
               {/* search component */}
