@@ -16,7 +16,7 @@ Start by **cloning** the project, run:
 </br> 1. git clone git@github.com:wyu6609/movies-ui.git
 </br> 2. cd movies-ui
 
-Start client locally, run:
+To start client locally, run:
 </br> 1. npm install
 </br> 2. npm start
 
