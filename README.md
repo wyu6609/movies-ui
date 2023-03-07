@@ -1,6 +1,6 @@
 ## Description
 
-This project is Frontend client for movies-api, a spring REST server 
+This project is Frontend client for <a href="https://github.com/wyu6609/movies-api" target="_blank">movies-api</a>
 
 ## Requirements
 
