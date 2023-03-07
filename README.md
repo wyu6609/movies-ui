@@ -1,1 +1,2 @@
- Basic front end that will map data from a spring server : https://github.com/wyu6609/movies-api
+Frontend client for movies-api
+movies-api: https://github.com/wyu6609/movies-api
